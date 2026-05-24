@@ -1,0 +1,13 @@
+{
+  "title": "Snake Arcade 1.0",
+  "url": "https://docs.daboiyoshi.com/game/index.html",
+  "type": "web_game",
+  "dimensions": {
+    "width": 800,
+    "height": 600
+  },
+  "permissions": [
+    "fullscreen",
+    "autoplay"
+  ]
+}
