@@ -32,7 +32,7 @@ Navigate the snake to eat pellets, grow longer, and earn points. Avoid colliding
 - Move at a steady pace when the snake is long; sudden turns increase collision risk.
 - If you want to embed this file in your site, you must give credit and you can it use it for commercial or modify it.
  ```embed
-hello world
+https://docs.daboiyoshi.com/game/snake_arcade.embed
 ```
 
 
